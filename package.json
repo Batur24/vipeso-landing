@@ -1,8 +1,8 @@
 {
-  "name": "cookie",
+  "name": "oneone-tech",
   "version": "1.0.0",
-  "description": "Landing website with blog using Jekyll and TailwindCSS",
-  "homepage": "https://cookie-demo.netlify.app",
+  "description": "广州一一科技",
+  "homepage": "http://oneone-tech.com/",
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.2.0",
     "@tailwindcss/forms": "^0.2.1",
